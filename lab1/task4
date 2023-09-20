@@ -1,0 +1,11 @@
+cd lab0
+mkdir tmp
+touch tmp/result1 tmp/errors1
+
+wc -l gengar1/* > tmp/result1 2> tmp/errors1
+ls -lR whirlpede5 | sort -nk2
+cat l* **/l* 2>/dev/null | sort
+ls -ltr *pi* **/*pi* 2>/dev/null
+cat **/corphish **/piplup **/surskit **/alakazam **/weezing **/yamask **/politoed **/litwick **/seedot **/porygon | grep ka
+cat **/weezing **/yamask **/politoed **/litwick **/seedot **/porygon **/meowth 2>/dev/null| grep Su
+

@@ -1,0 +1,58 @@
+mkdir lab0
+cd lab0
+
+mkdir gengar1 rampardos6 whirlpede5
+touch electrode3 lumineon1 nidoranM7
+echo "Возможности Overland=12 Jump=3 Power=3 Intelligence=4 
+Shrinkable=0 Sinker=0" > electrode3
+echo "Возможности Overland=1 
+Surface=12 Underwater=12 Jump4=0 Power=2 Intelligence=4
+Gilled=0" > lumineon1
+echo "Тип диеты Herbivore" > nidoranM7
+
+cd gengar1
+mkdir snivy
+touch corphish piplup surskit alakazam weezing
+echo "Тип диеты Carnivore" > corphish
+echo "Живёт
+Beach Taiga Tundra" > piplup
+echo "Способности Swarm Torrent Swift Swim
+Unaware" > surskit
+echo "Способности Confusion Disable Miracle Eye Ally
+Switch Psybeam Reflect Telekinesis Recover Psycho Cut Calm Mind
+Psychic Future Sight Trick" > alakazam
+echo "Способности Smog Smokescreen
+Assurance Clear Smog Sludge Selfdestruct Haze Double Hit Sludge Bomb
+Explosion Destiny Bond Memento" > weezing
+cd ..
+
+cd rampardos6
+mkdir koffing
+touch yamask politoed litwick seedot
+echo "Ходы After You Block
+Dark Pulse Iron Defense Knock Off Magic Coat Pain Split Role Play
+Skill Swap Sleep Talk Snatch Snore Spite Trick Wonder
+Room" > yamask
+echo "Способности Torrent Damp Water Absorb" > politoed
+echo "Ходы
+Dark Pulse Heat Wave Pain Split Sleep Talk Snore Spite
+Trick" > litwick
+echo "Ходы Body Slam Defense Curl Double-Edge Foul Play Giga
+Drain Rollout Seed Bomb Sleep Talk Snore Spite Synthesis Worry
+Seed" > seedot
+cd ..
+
+cd whirlpede5
+mkdir gothita exeggutor
+touch porygon meowth pidgey
+echo "Способности Last Chance Trace
+Download" > porygon
+echo "Возможности Overland=6 Surface=4 Jump=4 Power=1
+Intelligence=3 Tracker=0 Stealth=0" > meowth
+echo "weigth=4.0 height=12.0
+atk=5 def=4" > pidgey
+
+
+
+
+

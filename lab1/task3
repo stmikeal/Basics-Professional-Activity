@@ -1,0 +1,27 @@
+cd lab0
+
+chmod u+w whirlpede5
+chmod u+w gengar1
+chmod u+rw rampardos6/litwick
+chmod u+rw rampardos6/politoed
+
+ln -s electrode3  whirlpede5/porygonelectrode
+cat whirlpede5/meowth rampardos6/litwick > electrode3_71
+ln -f lumineon1 gengar1/pipluplumineon
+cp lumineon1 gengar1/snivy
+cat electrode3 > rampardos6/litwickelectrode
+ln -s rampardos6 Copy_5
+cp -r rampardos6 gengar1/snivy
+
+chmod u-w whirlpede5
+chmod u-rw rampardos6/litwick
+chmod u-rw rampardos6/politoed
+chmod u-w gengar1
+
+
+
+
+
+
+
+

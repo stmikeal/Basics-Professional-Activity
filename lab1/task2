@@ -1,0 +1,34 @@
+cd lab0
+
+chmod go-r+w electrode3
+
+chmod 512 gengar1
+cd gengar1
+chmod 440 corphish
+chmod 400 piplup
+chmod 062 surskit
+chmod 044 alakazam
+chmod 351 snivy
+chmod o-r weezing
+cd ..
+
+chmod 620 lumineon1
+chmod g-r nidoranM7
+
+chmod 764 rampardos6
+cd rampardos6
+chmod o-r yamask
+chmod ug-rw politoed
+chmod 046 litwick
+chmod 664 seedot
+chmod 513 koffing
+cd ..
+
+chmod 500 whirlpede5
+cd whirlpede5
+chmod 006 porygon
+chmod ugo-r gothita
+chmod g-r meowth
+chmod 373 exeggutor
+chmod 044 pidgey
+cd ..

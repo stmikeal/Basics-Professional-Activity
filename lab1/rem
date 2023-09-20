@@ -1,0 +1,5 @@
+chmod 777 lab0/gengar1
+chmod 777 lab0/gengar1/snivy
+chmod 777 lab0/whirlpede5
+
+rm -rf lab0

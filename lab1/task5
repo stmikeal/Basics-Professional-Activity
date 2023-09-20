@@ -1,0 +1,8 @@
+cd lab0
+
+rm -f nidoranM7
+rm -f gengar1/surskit
+rm -f Copy*
+rm -f gengar1/pipluplumine*
+rm -fr whirlpede5
+rm -fr whirlpede5/exeggutor
